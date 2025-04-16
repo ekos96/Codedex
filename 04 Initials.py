@@ -1,0 +1,12 @@
+04. Initials
+print("EEEEEEE      K      K")
+print("E            K     K")
+print("E            K    K")
+print("E            K   K")
+print("E            K  K")
+print("EEEEEEE      K K")
+print("E            K  K")
+print("E            K   K")
+print("E            K    K")
+print("E            K     K")
+print("EEEEEEE      K      K")
